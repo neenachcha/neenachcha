@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m locating in Thailand 🇹🇭 and Singapore 🇸🇬
+- 🌱 I’m currently learning the different between <BrowserRouter> and <StaticRouter> in React-Router
+- 💬 Ask me anything about React especially state / componentDidUpdate / componentDidMount.
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-neenachcha-blue?link=https://www.linkedin.com/in/nachcha-aroonrerk/)](https://www.linkedin.com/in/nachcha-aroonrerk/)
+
+
 <!--
 **neenachcha/neenachcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
