@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m locating in Thailand 🇹🇭 and Singapore 🇸🇬
-- 🌱 I’m currently learning the different between <BrowserRouter> and <StaticRouter> in React-Router
+- 🔭 I’m moving around Thailand 🇹🇭 and Singapore 🇸🇬
+- 🌱 I’m a certified external auditor but my interest is in coding
+- 🐕 I work hard to feed my two dogs 
 - 💬 Ask me anything about React especially state / componentDidUpdate / componentDidMount.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-neenachcha-blue?link=https://www.linkedin.com/in/nachcha-aroonrerk/)](https://www.linkedin.com/in/nachcha-aroonrerk/)
 
