@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m moving around Thailand 🇹🇭 and Singapore 🇸🇬
-- 🌱 I’m a certified external auditor but my interest is in coding
-- 🐕 I work hard to feed my two dogs 
-- 💬 Ask me anything about React especially state / componentDidUpdate / componentDidMount.
+- 🔭 About me:
+
+I founded Cloveaudit in 2018 and am currently working as a partner auditor. Cloveaudit is a small audit company, and it's only busy from Feb - June each year. During those non-busy times, I pursued my passion for coding. I like how coding can bring an idea to life. I love and want to be able to help make people's life quality better with my problem-solving and creative skills.
+
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-neenachcha-blue?link=https://www.linkedin.com/in/nachcha-aroonrerk/)](https://www.linkedin.com/in/nachcha-aroonrerk/)
 
 
