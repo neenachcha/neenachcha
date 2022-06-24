@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 About me:
-
 I'm a friendly full-stack SDE, who 🐶 love dogs 🐾 
 
 - 🎊 Passion: 
