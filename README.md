@@ -4,7 +4,7 @@
 I'm a friendly full-stack SDE, who 🐶 love dogs 🐾 
 
 - 🎊 Passion: 
-My life-long passion in work is to enjoy working with no politics and drama and work with a responsible, talented, but fun and compassionate team. 
+My life-long passion in work is to enjoy working with a responsible, talented, fun and compassionate team. 
 
 - 👯 Background:
 I founded Cloveaudit in 2018 and am currently working as a partner auditor. Cloveaudit is a small audit company, and it's only busy from Feb - June each year. During those non-busy times, I pursued my passion for coding. 🎊  I like how coding can bring an idea to life. I love and want to be able to help make people's life quality better with my problem-solving and creative skills.
